@@ -9,11 +9,12 @@ A lightweight, client-side dashboard that displays **live gold (Krugerrand) and 
 
 - Real-time **gold (1oz)** and **silver (1oz)** prices in **South African Rand (ZAR)**
 - Key **ZAR exchange rates** (USD, EUR, GBP → ZAR and vice versa)
-- **12-hour local caching** to reduce API calls and improve load speed
 - Fully **responsive** design — works on mobile & desktop
 
 ## 🌐 Live Demo
 👉 **https://ameen-cs.github.io/Live-Exchange-Rates/**
+
+---
 
 > Made for South African investors & traders  
 > © `2025` — [ameen-cs](https://github.com/ameen-cs)
